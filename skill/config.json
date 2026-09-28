@@ -1,0 +1,26 @@
+{
+  "name": "ai-topic-radar",
+  "language": "zh-CN",
+  "sources": [
+    "https://aihot.news/",
+    "https://ai.codefather.cn/news",
+    "https://futuretools.io/news"
+  ],
+  "modes": {
+    "today": "过去24小时，保留0-5条高信号内容",
+    "weekly": "过去7天，最多10条，并总结本周主线",
+    "design": "仅保留设计、生图、视频、3D、UI、剪辑、创作者工具与工作流",
+    "wechat": "按公众号长文选题标准筛选，并给标题方向",
+    "short_video": "按短视频选题标准筛选，并给开头钩子与标题方向"
+  },
+  "priorities": [
+    "AI生图",
+    "AI视频",
+    "3D",
+    "UI",
+    "设计工具",
+    "剪辑",
+    "Agent",
+    "创作者工作流"
+  ]
+}
